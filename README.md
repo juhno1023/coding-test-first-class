@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>coding-test Study<img src="https://github.com/Chochanguk/springboot-study/assets/119058637/345d9845-cc2d-4cd5-9de4-15b3821e6ecc" height="50"></h1>
+  <h1>coding-test 1기<img src="https://github.com/Caps-Job-Hunting/coding-test-first-class/assets/119058637/d624fbdb-7b87-4d06-9c74-9823403abf2d" height="50"></h1>
 </div>
 <br />
 
